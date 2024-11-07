@@ -1,2 +1,0 @@
-- discuss how to split data in 2 for monday
-- Quantitatively compare residuals to show T^2 is a worse fit
